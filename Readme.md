@@ -1,5 +1,11 @@
-# OOAD Project
-
+# Project Proposal
+## Members
+1. Dhruv Agrawal: 22114030  
+2. Komal        : 22113078
+3. Mudit Mangal : 22114057  
+4. Pulkit Garg  : 22114073 
+5. Sara Mann    : 22114085  
+###
 # Overview
 
 The healthcare industry stands on the brink of transformation, driven by blockchain technology's potential to reshape patient care, data management, and research collaboration. This innovative project aims to harness the power of blockchain to address several pressing challenges in healthcare, while empowering patients with ownership of their health data and ensuring secure, transparent, and interoperable medical record systems.
@@ -82,3 +88,4 @@ and availability.
 In conclusion, the proposed healthcare project leveraging blockchain technology presents a powerful vision for the future of healthcare. By empowering patients, enhancing efficiency and transparency, ensuring data security, fostering innovation in research, preventing prescription fraud, improving organ transplant efficiency, and enabling enhanced medication tracking, this project addresses critical challenges in the healthcare industry.
 
 While the endeavor is ambitious, it offers a well-balanced blend of opportunities and challenges. With careful planning, a dedicated team of programmers, and a six-month timeframe, this project is a feasible and impactful initiative that can contribute significantly to the improvement of healthcare systems, patient care, and medical research. It embodies the principles of patient-centricity, data security, and technological innovation, aiming to create a more accessible, transparent, and efficient healthcare ecosystem for all stakeholders.
+
